@@ -221,9 +221,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     thermal-engine-8226.conf
 
-# Torch
+# OmniTorch
 PRODUCT_PACKAGES += \
-    Torch
+    OmniTorch
 
 # USB
 PRODUCT_PACKAGES += \
